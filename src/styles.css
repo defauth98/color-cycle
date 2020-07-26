@@ -1,3 +1,40 @@
 body {
   background: #000;
+  animation: changeBackground 5s infinite;
+}
+
+@keyframes changeBackground {
+  0% {
+    background: red;
+  }
+  10% {
+    background: orange;
+  }
+  20% {
+    background: blue;
+  }
+  30% {
+    background: blueviolet;
+  }
+  40% {
+    background: brown;
+  }
+  50% {
+    background: chartreuse;
+  }
+  60% {
+    background: tomato;
+  }
+  70% {
+    background: black;
+  }
+  80% {
+    background: crimson;
+  }
+  90% {
+    background: darkgreen;
+  }
+  100% {
+    background: cyan;
+  }
 }
