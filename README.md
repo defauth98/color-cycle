@@ -1,23 +1,26 @@
-<h1 align="center">Nome do projeto (Coloque um bom emoji aqui)</h1>
+<h1 align="center">Color cycle</h1>
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/defauth8" target="_blank">
+  </a>
+</p>
 
-<h1 align="center">
-  <img  src=".github/interface.png" alt="nome do projeto"  align="center" width="50%">
-</h1>
+**Descrição**
 
-> Descrição do projeto
+> Aplicação construída com HTML, CSS e JavaScript que muda o cor de fundo dinamicamente.
 
----
+#### :thinking: Como usar
 
-## Funcionalidades
+Você pode abrir o projeto com o Visual Studio Code e instalar uma extensão chamada [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
-(Lista de requisitos)
+Ou simplesmente abrir o arquivo html no seu navegador favorito. 👊
 
-## Autor
+
+#### Autor
 
 👤 **Daniel Ribeiro**
 
 - Twitter: [@defauth8](https://twitter.com/defauth8)
-- Github: [@defauth98](https://github.com/defauth98)
-- LinkedIn: [daniel-ribeiro-397604164](https://www.linkedin.com/in/daniel-ribeiro-397604164/)
+- Github: [@defauth8](https://github.com/defauth98)
+- LinkedIn: [@daniel-ribeiro-397604164](https://linkedin.com/in/daniel-ribeiro-397604164)
 
----
